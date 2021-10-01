@@ -2,3 +2,7 @@ This is new file on adding the text on commit 3
 
 Adding this line after the commit
 
+This is line to create merge conflict
+
+
+This is line to create merge conflict written in develop branch
